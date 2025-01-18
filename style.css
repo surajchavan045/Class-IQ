@@ -94,6 +94,7 @@
     width: 115px;
     height: 27px;
     border: none;
+    cursor: pointer;
 }
 
 .middle-text-right .img {
