@@ -95,3 +95,7 @@
     height: 27px;
     border: none;
 }
+
+.middle-text-right .img {
+    padding-right: 100px;
+}
